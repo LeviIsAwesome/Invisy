@@ -1,5 +1,4 @@
-[![HitCount](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy.svg)](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy)
-# Invisy
+# Invisy [![HitCount](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy.svg)](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy)
 Making people disappear since 2018.
 
 ## Demo
