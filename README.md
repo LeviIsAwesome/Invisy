@@ -1,6 +1,13 @@
 # Invisy [![HitCount](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy.svg)](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy)
 Making people disappear since 2018.
 
+## Main Contributors
+The project is for the final case study of a __Graduated Level Course: Online Algorithm__, and the original main contributors were (names in alphabetical order):
+
+| [<img src="https://avatars0.githubusercontent.com/u/22110517?s=400&v=4" width="100px;"/><br /><sub><b>Jeremy Arde</b></sub>](https://github.com/Jarde01) | [<img src="https://avatars2.githubusercontent.com/u/37234961?s=400&v=4" width="100px;"/><br /><sub><b>Levi Guo</b></sub>](https://github.com/LeviIsAwesome)  | 
+|---|---|
+
+
 ## Demo
 This demo was filmed at **The 2018 Local Hack Day** at University of Manitoba, and this project helped us awarded an **Honorable Mention** at the event 🎊✌️🎉.   
 ![](https://github.com/Jarde01/Invisy/blob/master/person_blocker.gif)
