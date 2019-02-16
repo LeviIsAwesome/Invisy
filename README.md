@@ -19,7 +19,7 @@ This [Person-Blocker Repo](https://github.com/minimaxir/person-blocker) classifi
 Inspiration was from [Black Mirror White Christmas Episode](https://www.youtube.com/watch?v=_dXqugxU1sk&t=44s) (Youtube Video) and the technique we used is called [Mask R-CNN](https://arxiv.org/abs/1703.06870) which predicts an object mask in parallel with the existing branch for bounding box recognition.
 
 ## Current Implementation: 
-- phone uses ip webcam to set up web service with live video feed.
+- phone uses ip webcam to set up web service with the live video feed.
   - can replace with other video sources
 - invisy grabs screenshots and sends them to the model for classification
 - display the model output to the screen after processing
