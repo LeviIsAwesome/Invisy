@@ -10,6 +10,7 @@ Thanks goes to the following contributors (names in alphabetical order):
 
 ## Demo
 This demo was filmed at **The 2018 Local Hack Day** at University of Manitoba, and this project helped us awarded an **Honorable Mention** at the event 🎊✌️🎉.   
+
 ![](https://github.com/Jarde01/Invisy/blob/master/person_blocker.gif)
 
 ## Credit
