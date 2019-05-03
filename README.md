@@ -1,12 +1,6 @@
 # Invisy [![HitCount](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy.svg)](http://hits.dwyl.io/LeviIsAwesome/https://github.com/LeviIsAwesome/Invisy)
 Making people disappear since 2018.
 
-## Contributing ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat)](#contributors) 
-
-| [<img src="https://avatars0.githubusercontent.com/u/22110517?s=400&v=4" width="100px;"/><br /><sub><b>Jeremy Arde</b></sub>](https://github.com/Jarde01) | [<img src="https://avatars2.githubusercontent.com/u/37234961?s=400&v=4" width="100px;"/><br /><sub><b>Levi Guo</b></sub>](https://github.com/LeviIsAwesome)  | 
-|---|---|
-
-
 ## Demo
 This demo was filmed at **The 2018 Local Hack Day** at University of Manitoba, and this project helped us awarded an **Honorable Mention** at the event 🎊✌️🎉.   
 
@@ -24,3 +18,8 @@ Inspiration was from [Black Mirror White Christmas Episode](https://www.youtube.
 - invisy grabs screenshots and sends them to the model for classification
 - display the model output to the screen after processing
 
+
+## Contributing ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat)](#contributors) 
+
+| [<img src="https://avatars0.githubusercontent.com/u/22110517?s=400&v=4" width="100px;"/><br /><sub><b>Jeremy Arde</b></sub>](https://github.com/Jarde01) | [<img src="https://avatars2.githubusercontent.com/u/37234961?s=400&v=4" width="100px;"/><br /><sub><b>Levi Guo</b></sub>](https://github.com/LeviIsAwesome)  | 
+|---|---|
