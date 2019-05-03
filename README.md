@@ -2,7 +2,6 @@
 Making people disappear since 2018.
 
 ## Contributing ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat)](#contributors) 
-Thanks goes to the following contributors (names in alphabetical order):
 
 | [<img src="https://avatars0.githubusercontent.com/u/22110517?s=400&v=4" width="100px;"/><br /><sub><b>Jeremy Arde</b></sub>](https://github.com/Jarde01) | [<img src="https://avatars2.githubusercontent.com/u/37234961?s=400&v=4" width="100px;"/><br /><sub><b>Levi Guo</b></sub>](https://github.com/LeviIsAwesome)  | 
 |---|---|
